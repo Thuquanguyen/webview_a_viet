@@ -1,0 +1,4 @@
+#Wed Oct 20 14:10:14 ICT 2021
+base.0=/Users/apple/Desktop/webview_play/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
